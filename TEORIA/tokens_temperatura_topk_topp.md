@@ -2,13 +2,6 @@
   <img src="../assets/hiperparametros.png" alt="Fundamentos de IA para pymes y personas sin perfil técnico" width="100%">
 </p>
 
----
-title: "Tokens, temperatura, top-k y top-p en LLMs"
-description: "Guía progresiva para entender consumo de tokens y parámetros de muestreo en modelos de lenguaje."
-tags: [llm, tokens, temperatura, top-k, top-p, sampling, ia-generativa]
-last_updated: "2026-05-28"
----
-
 
 # Tokens, temperatura, top-k y top-p en LLMs
 
