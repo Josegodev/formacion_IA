@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="../assets/portadacodigo.png" alt="Fundamentos de IA para pymes y personas sin perfil técnico" width="100%">
+</p>
+
+
+
 # VS Code, Git, GitHub y Codex: guía progresiva para empezar desde cero
 
 ## Índice
