@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="../assets/notebooklm.png" alt="Fundamentos de IA para pymes y personas sin perfil técnico" width="100%">
+</p>
+
+
 # Qué es NotebookLM de Google
 
 ## 1. Explicación rápida
