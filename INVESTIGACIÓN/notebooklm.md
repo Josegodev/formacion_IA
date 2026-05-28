@@ -7,31 +7,31 @@
 
 ## Índice
 
-1. Explicación rápida
-2. Ejemplo sencillo
-3. Qué problema resuelve
-4. Qué puede hacer NotebookLM
-5. Qué no puede hacer NotebookLM
-6. Diferencia entre NotebookLM, Gemini y ChatGPT
-7. Concepto técnico mínimo: qué significa “basado en fuentes”
-8. NotebookLM no entrena un modelo desde cero
-9. Ejemplo práctico para entenderlo
-10. Buenas prácticas para usar NotebookLM
-11. Casos de uso en educación
-12. Casos de uso en empresa
-13. Casos de uso para estudiantes
-14. Casos de uso para perfiles técnicos
-15. Diferencia entre prototipo y producción
-16. Riesgos principales
-17. Prompt básico para empezar
-18. Prompt para analizar un documento profesional
-19. Prompt para preparar una clase
-20. Prompt para estudiar
-21. Prompt para detectar límites de la fuente
-22. Cómo explicarlo a alguien sin conocimientos técnicos
-23. Resumen final
-24. Frase corta para recordar
-25. Estimación de error
+1. [Explicación rápida](#1-explicación-rápida)
+2. [Ejemplo sencillo](#2-ejemplo-sencillo)
+3. [Qué problema resuelve](#3-qué-problema-resuelve)
+4. [Qué puede hacer NotebookLM](#4-qué-puede-hacer-notebooklm)
+5. [Qué no puede hacer NotebookLM](#5-qué-no-puede-hacer-notebooklm)
+6. [Diferencia entre NotebookLM, Gemini y ChatGPT](#6-diferencia-entre-notebooklm-gemini-y-chatgpt)
+7. [Concepto técnico mínimo: qué significa “basado en fuentes”](#7-concepto-técnico-mínimo-qué-significa-basado-en-fuentes)
+8. [NotebookLM no entrena un modelo desde cero](#8-notebooklm-no-entrena-un-modelo-desde-cero)
+9. [Ejemplo práctico para entenderlo](#9-ejemplo-práctico-para-entenderlo)
+10. [Buenas prácticas para usar NotebookLM](#10-buenas-prácticas-para-usar-notebooklm)
+11. [Casos de uso en educación](#11-casos-de-uso-en-educación)
+12. [Casos de uso en empresa](#12-casos-de-uso-en-empresa)
+13. [Casos de uso para estudiantes](#13-casos-de-uso-para-estudiantes)
+14. [Casos de uso para perfiles técnicos](#14-casos-de-uso-para-perfiles-técnicos)
+15. [Diferencia entre prototipo y producción](#15-diferencia-entre-prototipo-y-producción)
+16. [Riesgos principales](#16-riesgos-principales)
+17. [Prompt básico para empezar](#17-prompt-básico-para-empezar)
+18. [Prompt para analizar un documento profesional](#18-prompt-para-analizar-un-documento-profesional)
+19. [Prompt para preparar una clase](#19-prompt-para-preparar-una-clase)
+20. [Prompt para estudiar](#20-prompt-para-estudiar)
+21. [Prompt para detectar límites de la fuente](#21-prompt-para-detectar-límites-de-la-fuente)
+22. [Cómo explicarlo a alguien sin conocimientos técnicos](#22-cómo-explicarlo-a-alguien-sin-conocimientos-técnicos)
+23. [Resumen final](#23-resumen-final)
+24. [Frase corta para recordar](#24-frase-corta-para-recordar)
+25. [Estimación de error](#25-estimación-de-error)
 
 ---
 

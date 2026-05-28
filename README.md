@@ -12,12 +12,12 @@ El objetivo del material es explicar herramientas, usos y límites de la IA con 
 
 ## Índice
 
-1. Enfoque del curso
-2. Estructura del repositorio
-3. Contenidos actuales
-4. Criterios de calidad
-5. Flujo de trabajo recomendado
-6. Estado
+1. [Enfoque del curso](#enfoque-del-curso)
+2. [Estructura del repositorio](#estructura-del-repositorio)
+3. [Contenidos actuales](#contenidos-actuales)
+4. [Criterios de calidad](#criterios-de-calidad)
+5. [Flujo de trabajo recomendado](#flujo-de-trabajo-recomendado)
+6. [Estado](#estado)
 
 ## Enfoque del curso
 

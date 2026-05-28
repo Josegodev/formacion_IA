@@ -7,38 +7,38 @@
 
 ## Índice
 
-1. Explicación rápida
-2. Para qué sirve la generación de imágenes con IA
-3. Concepto clave: no es magia, es generación probabilística
-4. Qué es un prompt de imagen
-5. ChatGPT para generar imágenes
-6. Qué puede hacer ChatGPT con imágenes
-7. Qué no puede hacer bien ChatGPT con imágenes
-8. Cuándo usar ChatGPT para imágenes
-9. Gemini para generar imágenes
-10. Qué puede hacer Gemini con imágenes
-11. Qué no puede hacer bien Gemini con imágenes
-12. Cuándo usar Gemini para imágenes
-13. Canva para generar imágenes con IA
-14. Qué puede hacer Canva con imágenes de IA
-15. Qué no puede hacer bien Canva con IA
-16. Cuándo usar Canva para imágenes
-17. Comparativa rápida
-18. Diferencia entre generar imagen y diseñar
-19. Flujo recomendado para clase o pyme
-20. Prompt base para generar imágenes
-21. Ejemplo de prompt para ChatGPT
-22. Ejemplo de prompt para Gemini
-23. Ejemplo de prompt para Canva
-24. Cómo mejorar resultados
-25. Errores frecuentes
-26. Conceptos técnicos mínimos
-27. Riesgos y límites importantes
-28. Recomendación práctica por caso
-29. Producción mínima recomendada
-30. Diferencia entre prototipo y uso profesional
-31. Conclusión
-32. Resumen final
+1. [Explicación rápida](#1-explicación-rápida)
+2. [Para qué sirve la generación de imágenes con IA](#2-para-qué-sirve-la-generación-de-imágenes-con-ia)
+3. [Concepto clave: no es magia, es generación probabilística](#3-concepto-clave-no-es-magia-es-generación-probabilística)
+4. [Qué es un prompt de imagen](#4-qué-es-un-prompt-de-imagen)
+5. [ChatGPT para generar imágenes](#5-chatgpt-para-generar-imágenes)
+6. [Qué puede hacer ChatGPT con imágenes](#6-qué-puede-hacer-chatgpt-con-imágenes)
+7. [Qué no puede hacer bien ChatGPT con imágenes](#7-qué-no-puede-hacer-bien-chatgpt-con-imágenes)
+8. [Cuándo usar ChatGPT para imágenes](#8-cuándo-usar-chatgpt-para-imágenes)
+9. [Gemini para generar imágenes](#9-gemini-para-generar-imágenes)
+10. [Qué puede hacer Gemini con imágenes](#10-qué-puede-hacer-gemini-con-imágenes)
+11. [Qué no puede hacer bien Gemini con imágenes](#11-qué-no-puede-hacer-bien-gemini-con-imágenes)
+12. [Cuándo usar Gemini para imágenes](#12-cuándo-usar-gemini-para-imágenes)
+13. [Canva para generar imágenes con IA](#13-canva-para-generar-imágenes-con-ia)
+14. [Qué puede hacer Canva con imágenes de IA](#14-qué-puede-hacer-canva-con-imágenes-de-ia)
+15. [Qué no puede hacer bien Canva con IA](#15-qué-no-puede-hacer-bien-canva-con-ia)
+16. [Cuándo usar Canva para imágenes](#16-cuándo-usar-canva-para-imágenes)
+17. [Comparativa rápida](#17-comparativa-rápida)
+18. [Diferencia entre generar imagen y diseñar](#18-diferencia-entre-generar-imagen-y-diseñar)
+19. [Flujo recomendado para clase o pyme](#19-flujo-recomendado-para-clase-o-pyme)
+20. [Prompt base para generar imágenes](#20-prompt-base-para-generar-imágenes)
+21. [Ejemplo de prompt para ChatGPT](#21-ejemplo-de-prompt-para-chatgpt)
+22. [Ejemplo de prompt para Gemini](#22-ejemplo-de-prompt-para-gemini)
+23. [Ejemplo de prompt para Canva](#23-ejemplo-de-prompt-para-canva)
+24. [Cómo mejorar resultados](#24-cómo-mejorar-resultados)
+25. [Errores frecuentes](#25-errores-frecuentes)
+26. [Conceptos técnicos mínimos](#26-conceptos-técnicos-mínimos)
+27. [Riesgos y límites importantes](#27-riesgos-y-límites-importantes)
+28. [Recomendación práctica por caso](#28-recomendación-práctica-por-caso)
+29. [Producción mínima recomendada](#29-producción-mínima-recomendada)
+30. [Diferencia entre prototipo y uso profesional](#30-diferencia-entre-prototipo-y-uso-profesional)
+31. [Conclusión](#31-conclusión)
+32. [Resumen final](#32-resumen-final)
 
 ---
 

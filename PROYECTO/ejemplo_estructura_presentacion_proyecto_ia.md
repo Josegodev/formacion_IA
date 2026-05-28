@@ -2,18 +2,18 @@
 
 ## Índice
 
-1. Contexto
-2. Datos básicos de la presentación
-3. Estructura recomendada de diapositivas
-4. Guion recomendado para exponer
-5. Checklist antes de presentar
-6. Plantilla de matriz de riesgos
-7. Plantilla de coste operativo
-8. Prompts útiles para preparar la presentación
-9. Errores frecuentes en presentaciones de proyectos IA
-10. Rúbrica de evaluación sugerida
-11. Estructura final resumida
-12. Recomendación final
+1. [Contexto](#contexto)
+2. [Datos básicos de la presentación](#1-datos-básicos-de-la-presentación)
+3. [Estructura recomendada de diapositivas](#2-estructura-recomendada-de-diapositivas)
+4. [Guion recomendado para exponer](#3-guion-recomendado-para-exponer)
+5. [Checklist antes de presentar](#4-checklist-antes-de-presentar)
+6. [Plantilla de matriz de riesgos](#5-plantilla-de-matriz-de-riesgos)
+7. [Plantilla de coste operativo](#6-plantilla-de-coste-operativo)
+8. [Prompts útiles para preparar la presentación](#7-prompts-útiles-para-preparar-la-presentación)
+9. [Errores frecuentes en presentaciones de proyectos IA](#8-errores-frecuentes-en-presentaciones-de-proyectos-ia)
+10. [Rúbrica de evaluación sugerida](#9-rúbrica-de-evaluación-sugerida)
+11. [Estructura final resumida](#10-estructura-final-resumida)
+12. [Recomendación final](#11-recomendación-final)
 
 ---
 

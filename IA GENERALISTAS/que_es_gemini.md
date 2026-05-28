@@ -2,33 +2,33 @@
 
 ## Índice
 
-1. Idea rápida
-2. Explicación coloquial
-3. Qué NO es Gemini
-4. Gemini como aplicación, no como único modelo
-5. Qué puede hacer Gemini
-6. Qué no puede hacer Gemini
-7. Diferencia entre Gemini, Google Search y Google Assistant
-8. Conceptos técnicos mínimos
-9. Cómo usar Gemini bien
-10. Gemini para usuarios no técnicos
-11. Gemini para docentes
-12. Gemini para empresas
-13. Gemini para perfiles técnicos
-14. Gemini API
-15. Diferencia entre usar Gemini en la web y usar Gemini API
-16. Prototipo vs producción
-17. Observabilidad mínima en sistemas con Gemini API
-18. Coste operacional
-19. Riesgo de dependencia de Google
-20. Equivalente on-premise
-21. Seguridad
-22. Debugging
-23. Ejemplos de buenos prompts para Gemini
-24. Buenas prácticas
-25. Malas prácticas
-26. Comparación rápida: Gemini frente a ChatGPT
-27. Resumen final
+1. [Idea rápida](#1-idea-rápida)
+2. [Explicación coloquial](#2-explicación-coloquial)
+3. [Qué NO es Gemini](#3-qué-no-es-gemini)
+4. [Gemini como aplicación, no como único modelo](#4-gemini-como-aplicación-no-como-único-modelo)
+5. [Qué puede hacer Gemini](#5-qué-puede-hacer-gemini)
+6. [Qué no puede hacer Gemini](#6-qué-no-puede-hacer-gemini)
+7. [Diferencia entre Gemini, Google Search y Google Assistant](#7-diferencia-entre-gemini-google-search-y-google-assistant)
+8. [Conceptos técnicos mínimos](#8-conceptos-técnicos-mínimos)
+9. [Cómo usar Gemini bien](#9-cómo-usar-gemini-bien)
+10. [Gemini para usuarios no técnicos](#10-gemini-para-usuarios-no-técnicos)
+11. [Gemini para docentes](#11-gemini-para-docentes)
+12. [Gemini para empresas](#12-gemini-para-empresas)
+13. [Gemini para perfiles técnicos](#13-gemini-para-perfiles-técnicos)
+14. [Gemini API](#14-gemini-api)
+15. [Diferencia entre usar Gemini en la web y usar Gemini API](#15-diferencia-entre-usar-gemini-en-la-web-y-usar-gemini-api)
+16. [Prototipo vs producción](#16-prototipo-vs-producción)
+17. [Observabilidad mínima en sistemas con Gemini API](#17-observabilidad-mínima-en-sistemas-con-gemini-api)
+18. [Coste operacional](#18-coste-operacional)
+19. [Riesgo de dependencia de Google](#19-riesgo-de-dependencia-de-google)
+20. [Equivalente on-premise](#20-equivalente-on-premise)
+21. [Seguridad](#21-seguridad)
+22. [Debugging](#22-debugging)
+23. [Ejemplos de buenos prompts para Gemini](#23-ejemplos-de-buenos-prompts-para-gemini)
+24. [Buenas prácticas](#24-buenas-prácticas)
+25. [Malas prácticas](#25-malas-prácticas)
+26. [Comparación rápida: Gemini frente a ChatGPT](#26-comparación-rápida-gemini-frente-a-chatgpt)
+27. [Resumen final](#27-resumen-final)
 
 ---
 

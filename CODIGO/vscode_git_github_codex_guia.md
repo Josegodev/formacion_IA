@@ -2,47 +2,47 @@
 
 ## Índice
 
-1. Idea rápida, sin tecnicismos
-2. ¿Qué es VS Code?
-3. ¿Qué NO es VS Code?
-4. ¿Qué es una carpeta de proyecto?
-5. ¿Qué es Git?
-6. Git explicado con una analogía sencilla
-7. Tres conceptos básicos de Git
-8. Comandos mínimos de Git
-9. ¿Qué es GitHub?
-10. Diferencia entre Git y GitHub
-11. Cómo se integra VS Code con Git
-12. Cómo se integra VS Code con GitHub
-13. ¿Qué es clonar un repositorio?
-14. ¿Qué es un push?
-15. ¿Qué es un pull?
-16. ¿Qué es una rama?
-17. ¿Qué es Codex?
-18. Codex explicado sin tecnicismos
-19. Qué puede hacer Codex
-20. Qué NO puede hacer Codex de forma fiable
-21. Riesgo principal: aceptar cambios sin mirar
-22. Buenas prácticas al usar Codex con VS Code y GitHub
-23. Flujo recomendado para principiantes
-24. Flujo recomendado para usuarios intermedios
-25. Qué es una pull request
-26. Cómo pedir bien las cosas a Codex
-27. Prompt recomendado para revisar un proyecto
-28. Prompt recomendado para modificar código de forma controlada
-29. Prompt recomendado antes de hacer commit
-30. Prompt recomendado para errores de terminal
-31. Integración completa: VS Code + Git + GitHub + Codex
-32. Qué puede hacer una persona sin conocimientos IT con este flujo
-33. Qué puede hacer una persona avanzada con este flujo
-34. Errores frecuentes en clase
-35. Checklist antes de subir cambios a GitHub
-36. Checklist antes de pedir cambios a Codex
-37. Modelo mental final
-38. Resumen en una frase
-39. Mini glosario
-40. Ejercicio práctico recomendado para clase
-41. Mensaje clave para el alumnado
+1. [Idea rápida, sin tecnicismos](#1-idea-rápida-sin-tecnicismos)
+2. [¿Qué es VS Code?](#2-qué-es-vs-code)
+3. [¿Qué NO es VS Code?](#3-qué-no-es-vs-code)
+4. [¿Qué es una carpeta de proyecto?](#4-qué-es-una-carpeta-de-proyecto)
+5. [¿Qué es Git?](#5-qué-es-git)
+6. [Git explicado con una analogía sencilla](#6-git-explicado-con-una-analogía-sencilla)
+7. [Tres conceptos básicos de Git](#7-tres-conceptos-básicos-de-git)
+8. [Comandos mínimos de Git](#8-comandos-mínimos-de-git)
+9. [¿Qué es GitHub?](#9-qué-es-github)
+10. [Diferencia entre Git y GitHub](#10-diferencia-entre-git-y-github)
+11. [Cómo se integra VS Code con Git](#11-cómo-se-integra-vs-code-con-git)
+12. [Cómo se integra VS Code con GitHub](#12-cómo-se-integra-vs-code-con-github)
+13. [¿Qué es clonar un repositorio?](#13-qué-es-clonar-un-repositorio)
+14. [¿Qué es un push?](#14-qué-es-un-push)
+15. [¿Qué es un pull?](#15-qué-es-un-pull)
+16. [¿Qué es una rama?](#16-qué-es-una-rama)
+17. [¿Qué es Codex?](#17-qué-es-codex)
+18. [Codex explicado sin tecnicismos](#18-codex-explicado-sin-tecnicismos)
+19. [Qué puede hacer Codex](#19-qué-puede-hacer-codex)
+20. [Qué NO puede hacer Codex de forma fiable](#20-qué-no-puede-hacer-codex-de-forma-fiable)
+21. [Riesgo principal: aceptar cambios sin mirar](#21-riesgo-principal-aceptar-cambios-sin-mirar)
+22. [Buenas prácticas al usar Codex con VS Code y GitHub](#22-buenas-prácticas-al-usar-codex-con-vs-code-y-github)
+23. [Flujo recomendado para principiantes](#23-flujo-recomendado-para-principiantes)
+24. [Flujo recomendado para usuarios intermedios](#24-flujo-recomendado-para-usuarios-intermedios)
+25. [Qué es una pull request](#25-qué-es-una-pull-request)
+26. [Cómo pedir bien las cosas a Codex](#26-cómo-pedir-bien-las-cosas-a-codex)
+27. [Prompt recomendado para revisar un proyecto](#27-prompt-recomendado-para-revisar-un-proyecto)
+28. [Prompt recomendado para modificar código de forma controlada](#28-prompt-recomendado-para-modificar-código-de-forma-controlada)
+29. [Prompt recomendado antes de hacer commit](#29-prompt-recomendado-antes-de-hacer-commit)
+30. [Prompt recomendado para errores de terminal](#30-prompt-recomendado-para-errores-de-terminal)
+31. [Integración completa: VS Code + Git + GitHub + Codex](#31-integración-completa-vs-code--git--github--codex)
+32. [Qué puede hacer una persona sin conocimientos IT con este flujo](#32-qué-puede-hacer-una-persona-sin-conocimientos-it-con-este-flujo)
+33. [Qué puede hacer una persona avanzada con este flujo](#33-qué-puede-hacer-una-persona-avanzada-con-este-flujo)
+34. [Errores frecuentes en clase](#34-errores-frecuentes-en-clase)
+35. [Checklist antes de subir cambios a GitHub](#35-checklist-antes-de-subir-cambios-a-github)
+36. [Checklist antes de pedir cambios a Codex](#36-checklist-antes-de-pedir-cambios-a-codex)
+37. [Modelo mental final](#37-modelo-mental-final)
+38. [Resumen en una frase](#38-resumen-en-una-frase)
+39. [Mini glosario](#39-mini-glosario)
+40. [Ejercicio práctico recomendado para clase](#40-ejercicio-práctico-recomendado-para-clase)
+41. [Mensaje clave para el alumnado](#41-mensaje-clave-para-el-alumnado)
 
 ---
 

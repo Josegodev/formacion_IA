@@ -2,21 +2,21 @@
 
 ## Índice
 
-1. Idea rápida: ChatGPT en lenguaje de calle
-2. La confusión típica: ChatGPT no es exactamente “el modelo”
-3. Qué puede hacer ChatGPT
-4. Qué no puede hacer ChatGPT
-5. Cómo funciona por dentro, explicado progresivamente
-6. Casos de uso recomendados
-7. Buenas prácticas para usar ChatGPT
-8. Errores frecuentes al usar ChatGPT
-9. ChatGPT en prototipo vs producción
-10. Observabilidad mínima en sistemas con IA
-11. Privacidad y seguridad
-12. Diferencia entre ChatGPT, API y un chatbot propio
-13. Ejemplos de prompts útiles
-14. Resumen ejecutivo
-15. Frase final para clase
+1. [Idea rápida: ChatGPT en lenguaje de calle](#1-idea-rápida-chatgpt-en-lenguaje-de-calle)
+2. [La confusión típica: ChatGPT no es exactamente “el modelo”](#2-la-confusión-típica-chatgpt-no-es-exactamente-el-modelo)
+3. [Qué puede hacer ChatGPT](#3-qué-puede-hacer-chatgpt)
+4. [Qué no puede hacer ChatGPT](#4-qué-no-puede-hacer-chatgpt)
+5. [Cómo funciona por dentro, explicado progresivamente](#5-cómo-funciona-por-dentro-explicado-progresivamente)
+6. [Casos de uso recomendados](#6-casos-de-uso-recomendados)
+7. [Buenas prácticas para usar ChatGPT](#7-buenas-prácticas-para-usar-chatgpt)
+8. [Errores frecuentes al usar ChatGPT](#8-errores-frecuentes-al-usar-chatgpt)
+9. [ChatGPT en prototipo vs producción](#9-chatgpt-en-prototipo-vs-producción)
+10. [Observabilidad mínima en sistemas con IA](#10-observabilidad-mínima-en-sistemas-con-ia)
+11. [Privacidad y seguridad](#11-privacidad-y-seguridad)
+12. [Diferencia entre ChatGPT, API y un chatbot propio](#12-diferencia-entre-chatgpt-api-y-un-chatbot-propio)
+13. [Ejemplos de prompts útiles](#13-ejemplos-de-prompts-útiles)
+14. [Resumen ejecutivo](#14-resumen-ejecutivo)
+15. [Frase final para clase](#15-frase-final-para-clase)
 
 ---
 
