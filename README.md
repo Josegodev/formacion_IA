@@ -30,6 +30,7 @@ El objetivo del material es explicar herramientas, usos y límites de la IA con 
 | `AUTOMATIZACIÓN/` | Espacio reservado para contenidos sobre flujos, conectores y automatizaciones. |
 | `IMAGEN Y DISEÑO/` | Herramientas visuales, generación de imágenes y diseño de recursos con IA. |
 | `VIDEO/` | Espacio reservado para contenidos de vídeo, audio o material multimedia. |
+| `TEORIA/` | Material sobre teoría de LLM y modelos. |
 
 ## Contenidos actuales
 
@@ -53,6 +54,10 @@ El objetivo del material es explicar herramientas, usos y límites de la IA con 
 ### Proyecto final
 
 - [Estructura recomendada para la presentación final](PROYECTO/ejemplo_estructura_presentacion_proyecto_ia.md)
+
+### Teoria
+
+- [Tokens e Hiperparámetros](TEORIA/tokens_temperatura_topk_topp.md)
 
 ## Criterios de calidad
 
