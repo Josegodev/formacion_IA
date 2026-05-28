@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="assets/portada.png" alt="Fundamentos de IA para pymes y personas sin perfil técnico" width="100%">
+</p>
+
+
 # Formación IA
 
 Repositorio de contenidos para un curso de IA generativa dirigido a personas no técnicas.
