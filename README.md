@@ -28,7 +28,7 @@ El objetivo del material es explicar herramientas, usos y límites de la IA con 
 | `CODIGO/` | Guías para VS Code, Git, GitHub y Codex orientadas a principiantes. |
 | `PROYECTO/` | Plantillas y estructura para preparar el proyecto práctico final. |
 | `AUTOMATIZACIÓN/` | Espacio reservado para contenidos sobre flujos, conectores y automatizaciones. |
-| `IMAGEN Y DISEÑO/` | Espacio reservado para herramientas visuales y generación de recursos. |
+| `IMAGEN Y DISEÑO/` | Herramientas visuales, generación de imágenes y diseño de recursos con IA. |
 | `VIDEO/` | Espacio reservado para contenidos de vídeo, audio o material multimedia. |
 
 ## Contenidos actuales
@@ -45,6 +45,10 @@ El objetivo del material es explicar herramientas, usos y límites de la IA con 
 ### Código y trabajo con repositorios
 
 - [VS Code, Git, GitHub y Codex: guía progresiva](CODIGO/vscode_git_github_codex_guia.md)
+
+### Imagen y diseño
+
+- [Generación de imágenes con IA: ChatGPT, Gemini y Canva](IMAGEN%20Y%20DISE%C3%91O/chargpt_gemini_canva.md)
 
 ### Proyecto final
 
