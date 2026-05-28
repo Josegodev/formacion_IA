@@ -1,5 +1,49 @@
 # VS Code, Git, GitHub y Codex: guía progresiva para empezar desde cero
 
+## Índice
+
+1. Idea rápida, sin tecnicismos
+2. ¿Qué es VS Code?
+3. ¿Qué NO es VS Code?
+4. ¿Qué es una carpeta de proyecto?
+5. ¿Qué es Git?
+6. Git explicado con una analogía sencilla
+7. Tres conceptos básicos de Git
+8. Comandos mínimos de Git
+9. ¿Qué es GitHub?
+10. Diferencia entre Git y GitHub
+11. Cómo se integra VS Code con Git
+12. Cómo se integra VS Code con GitHub
+13. ¿Qué es clonar un repositorio?
+14. ¿Qué es un push?
+15. ¿Qué es un pull?
+16. ¿Qué es una rama?
+17. ¿Qué es Codex?
+18. Codex explicado sin tecnicismos
+19. Qué puede hacer Codex
+20. Qué NO puede hacer Codex de forma fiable
+21. Riesgo principal: aceptar cambios sin mirar
+22. Buenas prácticas al usar Codex con VS Code y GitHub
+23. Flujo recomendado para principiantes
+24. Flujo recomendado para usuarios intermedios
+25. Qué es una pull request
+26. Cómo pedir bien las cosas a Codex
+27. Prompt recomendado para revisar un proyecto
+28. Prompt recomendado para modificar código de forma controlada
+29. Prompt recomendado antes de hacer commit
+30. Prompt recomendado para errores de terminal
+31. Integración completa: VS Code + Git + GitHub + Codex
+32. Qué puede hacer una persona sin conocimientos IT con este flujo
+33. Qué puede hacer una persona avanzada con este flujo
+34. Errores frecuentes en clase
+35. Checklist antes de subir cambios a GitHub
+36. Checklist antes de pedir cambios a Codex
+37. Modelo mental final
+38. Resumen en una frase
+39. Mini glosario
+40. Ejercicio práctico recomendado para clase
+41. Mensaje clave para el alumnado
+
 ---
 
 ## 1. Idea rápida, sin tecnicismos

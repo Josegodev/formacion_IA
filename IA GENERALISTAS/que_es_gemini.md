@@ -1,5 +1,37 @@
 # Qué es Gemini de Google.
 
+## Índice
+
+1. Idea rápida
+2. Explicación coloquial
+3. Qué NO es Gemini
+4. Gemini como aplicación, no como único modelo
+5. Qué puede hacer Gemini
+6. Qué no puede hacer Gemini
+7. Diferencia entre Gemini, Google Search y Google Assistant
+8. Conceptos técnicos mínimos
+9. Cómo usar Gemini bien
+10. Gemini para usuarios no técnicos
+11. Gemini para docentes
+12. Gemini para empresas
+13. Gemini para perfiles técnicos
+14. Gemini API
+15. Diferencia entre usar Gemini en la web y usar Gemini API
+16. Prototipo vs producción
+17. Observabilidad mínima en sistemas con Gemini API
+18. Coste operacional
+19. Riesgo de dependencia de Google
+20. Equivalente on-premise
+21. Seguridad
+22. Debugging
+23. Ejemplos de buenos prompts para Gemini
+24. Buenas prácticas
+25. Malas prácticas
+26. Comparación rápida: Gemini frente a ChatGPT
+27. Resumen final
+
+---
+
 ## 1. Idea rápida
 
 Gemini es el asistente de inteligencia artificial de Google.

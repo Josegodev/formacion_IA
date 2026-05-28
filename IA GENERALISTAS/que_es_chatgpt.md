@@ -1,5 +1,23 @@
 # Qué es ChatGPT, qué puede hacer y qué no puede hacer
 
+## Índice
+
+1. Idea rápida: ChatGPT en lenguaje de calle
+2. La confusión típica: ChatGPT no es exactamente “el modelo”
+3. Qué puede hacer ChatGPT
+4. Qué no puede hacer ChatGPT
+5. Cómo funciona por dentro, explicado progresivamente
+6. Casos de uso recomendados
+7. Buenas prácticas para usar ChatGPT
+8. Errores frecuentes al usar ChatGPT
+9. ChatGPT en prototipo vs producción
+10. Observabilidad mínima en sistemas con IA
+11. Privacidad y seguridad
+12. Diferencia entre ChatGPT, API y un chatbot propio
+13. Ejemplos de prompts útiles
+14. Resumen ejecutivo
+15. Frase final para clase
+
 ---
 
 ## 1. Idea rápida: ChatGPT en lenguaje de calle

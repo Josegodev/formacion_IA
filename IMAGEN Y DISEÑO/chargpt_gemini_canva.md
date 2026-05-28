@@ -5,6 +5,43 @@
 
 # Generación de imágenes con IA: ChatGPT, Gemini y Canva
 
+## Índice
+
+1. Explicación rápida
+2. Para qué sirve la generación de imágenes con IA
+3. Concepto clave: no es magia, es generación probabilística
+4. Qué es un prompt de imagen
+5. ChatGPT para generar imágenes
+6. Qué puede hacer ChatGPT con imágenes
+7. Qué no puede hacer bien ChatGPT con imágenes
+8. Cuándo usar ChatGPT para imágenes
+9. Gemini para generar imágenes
+10. Qué puede hacer Gemini con imágenes
+11. Qué no puede hacer bien Gemini con imágenes
+12. Cuándo usar Gemini para imágenes
+13. Canva para generar imágenes con IA
+14. Qué puede hacer Canva con imágenes de IA
+15. Qué no puede hacer bien Canva con IA
+16. Cuándo usar Canva para imágenes
+17. Comparativa rápida
+18. Diferencia entre generar imagen y diseñar
+19. Flujo recomendado para clase o pyme
+20. Prompt base para generar imágenes
+21. Ejemplo de prompt para ChatGPT
+22. Ejemplo de prompt para Gemini
+23. Ejemplo de prompt para Canva
+24. Cómo mejorar resultados
+25. Errores frecuentes
+26. Conceptos técnicos mínimos
+27. Riesgos y límites importantes
+28. Recomendación práctica por caso
+29. Producción mínima recomendada
+30. Diferencia entre prototipo y uso profesional
+31. Conclusión
+32. Resumen final
+
+---
+
 ## 1. Explicación rápida
 
 Generar imágenes con IA significa pedirle a una herramienta que cree una imagen a partir de una descripción escrita.

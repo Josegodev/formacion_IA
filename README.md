@@ -10,6 +10,15 @@ Repositorio de contenidos para un curso de IA generativa dirigido a personas no 
 
 El objetivo del material es explicar herramientas, usos y límites de la IA con lenguaje claro, ejemplos prácticos y criterio operativo. No se plantea como documentación comercial de herramientas, sino como una base formativa para aprender a usar IA con revisión humana, control de datos y sentido crítico.
 
+## Índice
+
+1. Enfoque del curso
+2. Estructura del repositorio
+3. Contenidos actuales
+4. Criterios de calidad
+5. Flujo de trabajo recomendado
+6. Estado
+
 ## Enfoque del curso
 
 - Explicar conceptos de IA generativa sin asumir conocimientos técnicos previos.

@@ -5,6 +5,36 @@
 
 # Qué es NotebookLM de Google
 
+## Índice
+
+1. Explicación rápida
+2. Ejemplo sencillo
+3. Qué problema resuelve
+4. Qué puede hacer NotebookLM
+5. Qué no puede hacer NotebookLM
+6. Diferencia entre NotebookLM, Gemini y ChatGPT
+7. Concepto técnico mínimo: qué significa “basado en fuentes”
+8. NotebookLM no entrena un modelo desde cero
+9. Ejemplo práctico para entenderlo
+10. Buenas prácticas para usar NotebookLM
+11. Casos de uso en educación
+12. Casos de uso en empresa
+13. Casos de uso para estudiantes
+14. Casos de uso para perfiles técnicos
+15. Diferencia entre prototipo y producción
+16. Riesgos principales
+17. Prompt básico para empezar
+18. Prompt para analizar un documento profesional
+19. Prompt para preparar una clase
+20. Prompt para estudiar
+21. Prompt para detectar límites de la fuente
+22. Cómo explicarlo a alguien sin conocimientos técnicos
+23. Resumen final
+24. Frase corta para recordar
+25. Estimación de error
+
+---
+
 ## 1. Explicación rápida
 
 NotebookLM es una herramienta de Google que funciona como un **cuaderno inteligente con IA**.

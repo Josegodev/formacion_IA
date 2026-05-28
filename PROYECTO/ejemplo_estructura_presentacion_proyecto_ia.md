@@ -1,5 +1,22 @@
 # Estructura recomendada para preparar la presentación final
 
+## Índice
+
+1. Contexto
+2. Datos básicos de la presentación
+3. Estructura recomendada de diapositivas
+4. Guion recomendado para exponer
+5. Checklist antes de presentar
+6. Plantilla de matriz de riesgos
+7. Plantilla de coste operativo
+8. Prompts útiles para preparar la presentación
+9. Errores frecuentes en presentaciones de proyectos IA
+10. Rúbrica de evaluación sugerida
+11. Estructura final resumida
+12. Recomendación final
+
+---
+
 ## Contexto
 
 Esta plantilla sirve para preparar la presentación del proyecto práctico del bloque de IA aplicada.  
