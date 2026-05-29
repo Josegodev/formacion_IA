@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="../assets/apis.png" alt="Fundamentos de IA para pymes y personas sin perfil técnico" width="100%">
+</p>
+
+
 # Qué es una API en el mundo de los LLM
 
 > Guía progresiva para personas sin conocimientos técnicos, equipos de negocio, docentes, perfiles creativos y usuarios avanzados que quieren entender qué significa “usar un LLM por API”.
