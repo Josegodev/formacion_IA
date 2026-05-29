@@ -67,7 +67,7 @@ El objetivo del material es explicar herramientas, usos y límites de la IA con 
 ### Teoria
 
 - [Tokens e Hiperparámetros](TEORIA/tokens_temperatura_topk_topp.md)
-- [Tokens e Hiperparámetros](TEORIA/concepto-api-llm.md)
+- [APIS](TEORIA/concepto-api-llm.md)
 
 ## Criterios de calidad
 
