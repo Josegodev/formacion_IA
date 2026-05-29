@@ -99,8 +99,8 @@ a {
   position: absolute;
   inset: 1.5rem;
   background:
-    linear-gradient(90deg, rgba(13, 45, 31, 0.74), rgba(13, 45, 31, 0.25)),
-    url("assets/portada.png") center/cover no-repeat;
+    radial-gradient(circle at top right, rgba(159, 214, 183, 0.4), transparent 24%),
+    linear-gradient(135deg, #f7fbf8 0%, #e8f2ec 52%, #dbe9e0 100%);
   border-radius: 32px;
   box-shadow: var(--shadow);
 }
@@ -125,12 +125,8 @@ a {
   text-transform: uppercase;
 }
 
-.eyebrow,
-.hero-text,
-.panel-label,
-.panel-quote,
-.hero-points {
-  color: #f3f7f3;
+.eyebrow {
+  color: var(--primary-strong);
 }
 
 .hero-copy h1 {
@@ -138,12 +134,14 @@ a {
   margin: 0 0 1rem;
   font-size: clamp(2.8rem, 6vw, 5rem);
   line-height: 0.98;
+  color: var(--text);
 }
 
 .hero-text {
   max-width: 60ch;
   margin: 0;
   font-size: 1.05rem;
+  color: var(--text-soft);
 }
 
 .hero-actions {
@@ -177,9 +175,9 @@ a {
 }
 
 .button-secondary {
-  border: 1px solid rgba(255, 255, 255, 0.55);
-  background: rgba(255, 255, 255, 0.12);
-  color: #ffffff;
+  border: 1px solid rgba(47, 106, 73, 0.2);
+  background: rgba(255, 255, 255, 0.72);
+  color: var(--primary-strong);
 }
 
 .hero-panel,
@@ -198,19 +196,25 @@ a {
 
 .hero-panel {
   padding: 1.5rem;
-  background: rgba(255, 255, 255, 0.15);
-  border-color: rgba(255, 255, 255, 0.18);
+  background: rgba(255, 255, 255, 0.9);
+  border-color: rgba(47, 106, 73, 0.12);
+}
+
+.panel-label {
+  color: var(--primary-strong);
 }
 
 .panel-quote {
   margin: 0 0 1.2rem;
   font-size: 1.05rem;
   font-weight: 600;
+  color: var(--text);
 }
 
 .hero-points {
   margin: 0;
   padding-left: 1.2rem;
+  color: var(--text-soft);
 }
 
 .metrics-section {
