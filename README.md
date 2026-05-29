@@ -96,6 +96,19 @@ Para cambios amplios, revisar siempre el diff antes de hacer commit:
 git diff
 ```
 
+## Publicar la web con GitHub Pages
+
+La landing estatica del repositorio esta preparada en `docs/`.
+
+Para activarla en GitHub Pages:
+
+1. Ve a `Settings`.
+2. Abre `Pages`.
+3. En `Build and deployment`, elige `Deploy from branch`.
+4. Selecciona la rama `main`.
+5. Selecciona la carpeta `/docs`.
+6. Guarda la configuracion y espera la publicacion.
+
 ## Estado
 
 Repositorio en construcción. Los módulos pendientes se irán completando de forma incremental.
